@@ -17,15 +17,16 @@ h1 {
                         color: rgb(24, 179, 83);
 }
 
-section {
+.sifat3{
 
                         display: flex;
                         margin-bottom: 150px;
 }
 .miskat{
 
-          width: 80%; 
+          width: 60%; 
            padding-left: 5%;
+           padding-bottom: 2%;
            
           }
 .miskat img 
